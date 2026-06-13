@@ -1,5 +1,5 @@
 {
-  "name": "base44-app",
+  "name": "play-dodi",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -76,7 +76,8 @@
     "vaul": "^1.1.2",
     "xlsx": "^0.18.5",
     "zod": "^3.24.2",
-    "@supabase/supabase-js": "^2.39.0"
+    "@supabase/supabase-js": "^2.39.0",
+    "resend": "^3.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
